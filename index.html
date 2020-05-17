@@ -156,13 +156,6 @@ permalink: /
 
 <!-- Content Start -->
 <section id="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>What people are saying about our food</h2>
-        <p></p>
-      </div>
-    </div>
     <div class="row">
       <div class="col-md-16">
         {% if site.data.testimonials.size > 0 %}
@@ -174,7 +167,8 @@ permalink: /
                 <p>{{ tm.testimonial }}</p>
                 <div class="user">
                   <img src="{{ tm.image }}" alt="Pepole">
-                  <p><span>{{ tm.name }}</span> {{ tm.title }}</p>
+                  <p>{{ tm.name }} 
+                    {{ tm.title }}</p>
                 </div>
             </div>
             {% endfor %}
