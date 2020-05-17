@@ -156,7 +156,7 @@ permalink: /
 </section>
 <!-- Content Start -->
 <section id="testimonial">
-  <div class="container center">
+  <div class="container">
     <div class="row">
       <div class="section-title text-center">
         <h2>What people are saying about our food</h2>
@@ -164,10 +164,10 @@ permalink: /
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10 center">
+      <div class="col-md-16">
         {% if site.data.testimonials.size > 0 %}
-        <div class="testimonial-carousel center">
-          <div id="testimonial-slider" class="owl-carousel">
+        <div class="testimonial-carousel">
+          <div id="testimonial-slider" class="owl-carousel center">
             {% for tm in site.data.testimonials %}
             <div>
                 <img src="img/cotation.png" alt="IMG">
