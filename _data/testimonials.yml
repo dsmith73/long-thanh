@@ -1,16 +1,13 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: do317
+  title: do317.com
+  testimonial: "David Vu named the restaurant he owns and cooks for after his hometown in south Vietnam, and his commitment into serving authentic flavors has consistently earned five stars from his customers. Of course, they’ll have your giant bowls of pho, but don’t miss out on the dishes served sizzling hot in a clay pot. If you’re a heavy fish eater, you’ll appreciate the whole fried option, which you can slide easily off the bone with a squeeze of lime."
+  image: https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/5015304/3c70838b-6c7a-4f69-bee6-8f0cb8d5c019.png
+- name: Yelp
+  title: Lauren - Yelp
+  testimonial: "I got takeout from here last night and I was blown away.  Everything was fresh and delicious and the flavors and textures in each dish were just perfect.  I last on the phone recommended #52.  I want to go back again tonight !"
+  # image: img/item-img1.jpg
+- name: Tripadvisor
+  title: spa8110 - Tripadvisor
+  testimonial: "I’ve eaten at several Vietnamese restaurants around town, and I have to say this is probably one of the best. Order number 52. It comes in a bowl with chicken, and it’s delicious."
+  image: https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg
+
