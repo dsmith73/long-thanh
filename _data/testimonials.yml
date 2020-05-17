@@ -1,13 +1,25 @@
 - name: do317
   title: do317.com
   testimonial: "David Vu named the restaurant he owns and cooks for after his hometown in south Vietnam, and his commitment into serving authentic flavors has consistently earned five stars from his customers. Of course, they’ll have your giant bowls of pho, but don’t miss out on the dishes served sizzling hot in a clay pot. If you’re a heavy fish eater, you’ll appreciate the whole fried option, which you can slide easily off the bone with a squeeze of lime."
-  image: https://assets0.dostuffmedia.com/uploads/aws_asset/aws_asset/5015304/3c70838b-6c7a-4f69-bee6-8f0cb8d5c019.png
+  image: img/do317.jpg
 - name: Yelp
   title: Lauren - Yelp
   testimonial: "I got takeout from here last night and I was blown away.  Everything was fresh and delicious and the flavors and textures in each dish were just perfect.  I last on the phone recommended #52.  I want to go back again tonight !"
-  # image: img/item-img1.jpg
+  image: img/yelp.jpg
 - name: Tripadvisor
   title: spa8110 - Tripadvisor
   testimonial: "I’ve eaten at several Vietnamese restaurants around town, and I have to say this is probably one of the best. Order number 52. It comes in a bowl with chicken, and it’s delicious."
-  image: https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg
-
+  image: img/tripadvisor.jpg
+- name: restaurantji
+  title: restaurantji.com
+  testimonial: "I went to Long Thanh at the recommendation of the owner of the nail salon I use when I asked about where to try pho. She did not steer me wrong! The first couple of times I went there I got my order to go. Because my boyfriend was out of town. They packed up all the components separately so the noodles were still perfect when I got home. My boyfriend and I have also eaten in the restaurant a couple of times since, and I find myself wanting to go cack for more."
+  image: https://www.restaurantji.com/images/logo.png
+- name: foursquare
+  title: T - foursquare
+  testimonial: "A great place on the northeast side for a quick meal. Any of the rice soups is great. I love the combination rice plate."
+  image: https://ss1.4sqi.net/img/metaIcons/touch-icon-72-cf2d6cd44afc49e9889ad54e33e69f31.png
+  - name: google
+  title: Charlotte - google
+  testimonial: "The amount of food and quality for the price is unbeatable."
+  image: https://lh4.googleusercontent.com/-1ahCyyidrpQ/AAAAAAAAAAI/AAAAAAAAAAA/NyH9S37TsOc/w60-h60-p-rp-mo-ba4-br100/photo.jpg
+  
