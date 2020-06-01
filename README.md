@@ -1,65 +1,13 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# Long-Thanh Vietnamese Restaurant  
 
-This Jekyll theme is a port of [ThemeFisher's](https://themefisher.com) [Airspace template](https://themefisher.com/products/airspace-free-bootstrap-website-template/). It is released under ThemeFisher's [license](https://themefisher.com/license) , which requires attribution. Concern about the licnese please contact with [them](mailto:themefisher@gmail.com)
+---
 
-## Usage
-To start your project, [fork this respository](https://github.com/ndrewtl/airspace-jekyll/fork), put in your content, and go!
+[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcblx0QygoTG9uZy1UaGFuaCkpXG5cbiAgQyAtLT58QnJvd3NlIFdlYnNpdGV8IER7T3JkZXIgRm9vZH1cbiAgRCAtLT58T3B0aW9uIDF8IEQ0W1tHcnViSHViXV1cbiAgRCAtLT58T3B0aW9uIDJ8IEQ1W1tVYmVyRWF0c11dXG4gIEQgLS0-fE9wdGlvbiAzfCBENltbRG9vckRhc2hdXVxuICBEIC0tPnxPcHRpb24gNHwgRDdbW0NhbGwgZm9yIFBpY2tVcF1dXG5cbiAgRDYgLS4tPiBEOVxuICBENyAtLi0-IEQ5XG4gIEQ1IC0uLT4gRDlcbiAgRDQgLS4tPiBEOShbRW5qb3kgdGhlIGZvb2RdKVxuXG4gIEQ5IC0tPiBEMTB7e1NtaWxlfX0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZm9yZXN0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcblx0QygoTG9uZy1UaGFuaCkpXG5cbiAgQyAtLT58QnJvd3NlIFdlYnNpdGV8IER7T3JkZXIgRm9vZH1cbiAgRCAtLT58T3B0aW9uIDF8IEQ0W1tHcnViSHViXV1cbiAgRCAtLT58T3B0aW9uIDJ8IEQ1W1tVYmVyRWF0c11dXG4gIEQgLS0-fE9wdGlvbiAzfCBENltbRG9vckRhc2hdXVxuICBEIC0tPnxPcHRpb24gNHwgRDdbW0NhbGwgZm9yIFBpY2tVcF1dXG5cbiAgRDYgLS4tPiBEOVxuICBENyAtLi0-IEQ5XG4gIEQ1IC0uLT4gRDlcbiAgRDQgLS4tPiBEOShbRW5qb3kgdGhlIGZvb2RdKVxuXG4gIEQ5IC0tPiBEMTB7e1NtaWxlfX0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZm9yZXN0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9)  
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
-
-## Steps for Setup:
-
-### Make sure you have Ruby
-
-First, make sure you have [Ruby](https://www.ruby-lang.org/en/) installed. You can confirm this by running `ruby -v` on the command line:
-
-```sh
-$ ruby -v
-ruby [version number] (date) [your platform]
-```
-
-If you get something like `"Error, command not found"` visit the link above and
-install Ruby for your platform.
+---
 
 
-### Make sure you have Bundler
-
-Next, make sure you have [Bundler](https://bundler.io) installed. Just like
-above, run `bundle -v` on the command line:
-
-```sh
-$ bundle -v
-bundle [version number]
-```
-
-If you get `"Error, command not found"` run `gem install bundler` to install it
-using RubyGems.
-
-### Run this repository
-
-Clone the repository, and `cd` into it:
-```sh
-$ git clone https://github.com/ndrewtl/airspace-jekyll.git
-$ cd airspace-jekyll
-```
-
-Install dependencies locally:
-```sh
-$ bundle install --path vendor/bundle
-```
-
-This should install a local copy of jekyll.
-
-Now run the server:
-```sh
-$ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
-```
+| Contact: |
+| :---------: |
+| **[Slack](https://101101workspace.slack.com/archives/D012ESWSXHQ "dsmith73 on 101101 workspace")**  / **[Discord](https://discord.gg/RmzVNzx)** |
+| ![github.com/dsmith73](https://avatars1.githubusercontent.com/u/44279121?s=60&u=7a933a33b51505f9d6435eeffae1c8156a47dc77&v=4 "github.com/dsmith73") |
