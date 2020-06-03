@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: "LONG THANH"
 subtitle: "Authentic Chinese/Vietnamese Restaurant"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+url: "http://dsmith73.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/long-thanh"
 cover: "/assets/cover.png"
